@@ -10,7 +10,7 @@ I'm a **Computer Science and Business Systems student** at KIT's College of Engi
 - 👨‍💻 Exploring **Backend Development & Telegram Bot Development**.
 - 💡 Interested in **Tech Startups & Business Innovations**.
 - 💬 Ask me about **C, C++, Java, Python, DSA, and Cloud Computing**.
-- 📫 Reach me at: **pmkhavale@gmail.com**
+- 📫 Reach me at: **pandurangkhavale@outlook.com**
 
 ---
 
