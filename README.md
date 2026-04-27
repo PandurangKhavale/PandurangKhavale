@@ -1,62 +1,96 @@
-### Hi there, I'm Pandurang Khavle! 👋
-
-I'm a **Computer Science and Business Systems student** at KIT's College of Engineering (Autonomous), Kolhapur. Passionate about **Software Development, Cloud Computing, Machine Learning, and Entrepreneurship**. Always eager to learn new technologies and build impactful projects. 🚀
-
----
-
-### 🚀 About Me:
-- 🔭 Currently working on **Skilloswap** – A skill-sharing barter platform.
-- 🌱 Learning **Java (DSA), Cloud Computing, and Machine Learning**.
-- 👨‍💻 Exploring **Backend Development & Telegram Bot Development**.
-- 💡 Interested in **Tech Startups & Business Innovations**.
-- 💬 Ask me about **C, C++, Java, Python, DSA, and Cloud Computing**.
-- 📫 Reach me at: **pandurangkhavale@outlook.com**
-
----
-
-### 🛠️ Tech Stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Machine+Learning+%7C+Generative+AI;Building+Real-World+AI+Systems;From+Models+to+Production" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Pandurang Khavle</h1>
+
+<h3 align="center">🚀 AI Engineer (Aspiring) | ML | GenAI</h3>
+
 ---
 
-### 📈 GitHub Stats:
+## 🧠 About Me
+
+- 🎯 Target: **AI Engineer Intern**
+- 🎓 CSBS @ KIT Kolhapur  
+- ⚡ Focus: **Machine Learning + Deep Learning + LLMs**
+- 🚀 Building toward **production-ready AI systems**
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandurangKhavale&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandurangKhavale&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandurangKhavale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,fastapi,docker,git,linux" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+## 📊 Skill Strength
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pandurangkhavale" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/PandurangKhavale" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:pmkhavale@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+<p align="center">
+
+<img src="https://progress-bar.dev/90/?title=Python&width=400&color=00F7FF"/>
+<br>
+<img src="https://progress-bar.dev/85/?title=Machine%20Learning&width=400&color=00F7FF"/>
+<br>
+<img src="https://progress-bar.dev/70/?title=Deep%20Learning&width=400&color=00F7FF"/>
+<br>
+<img src="https://progress-bar.dev/65/?title=Generative%20AI&width=400&color=00F7FF"/>
+<br>
+<img src="https://progress-bar.dev/70/?title=Backend%20Development&width=400&color=00F7FF"/>
+
 </p>
 
 ---
 
-⭐ **Let's build something amazing together!** 🚀
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PandurangKhavale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PandurangKhavale&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandurangKhavale&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-RAG%20Systems-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-LLMs-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Deployment-00F7FF?style=for-the-badge" />
+</p>
+
+---
+
+## 🧩 What Sets Me Apart
+
+✨ I build **AI systems, not just models**  
+⚡ Focus on **real-world problem solving**  
+🚀 Moving towards **production-level AI engineering**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pandurangkhavale">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pandurangkhavale@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Building AI. Scaling Skills. Creating Impact.</b> ⭐
+</p>
