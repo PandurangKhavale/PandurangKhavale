@@ -30,15 +30,20 @@
 
 <p align="center">
 
-<img src="https://progress-bar.dev/90/?title=Python&width=400&color=00F7FF"/>
-<br>
-<img src="https://progress-bar.dev/85/?title=Machine%20Learning&width=400&color=00F7FF"/>
-<br>
-<img src="https://progress-bar.dev/70/?title=Deep%20Learning&width=400&color=00F7FF"/>
-<br>
-<img src="https://progress-bar.dev/65/?title=Generative%20AI&width=400&color=00F7FF"/>
-<br>
-<img src="https://progress-bar.dev/70/?title=Backend%20Development&width=400&color=00F7FF"/>
+<strong>Python</strong><br>
+<img src="https://img.shields.io/badge/██████████-90%25-00F7FF?style=for-the-badge"/><br><br>
+
+<strong>Machine Learning</strong><br>
+<img src="https://img.shields.io/badge/█████████░-85%25-00F7FF?style=for-the-badge"/><br><br>
+
+<strong>Deep Learning</strong><br>
+<img src="https://img.shields.io/badge/███████░░░-70%25-00F7FF?style=for-the-badge"/><br><br>
+
+<strong>Generative AI</strong><br>
+<img src="https://img.shields.io/badge/██████░░░░-65%25-00F7FF?style=for-the-badge"/><br><br>
+
+<strong>Backend Development</strong><br>
+<img src="https://img.shields.io/badge/███████░░░-70%25-00F7FF?style=for-the-badge"/>
 
 </p>
 
